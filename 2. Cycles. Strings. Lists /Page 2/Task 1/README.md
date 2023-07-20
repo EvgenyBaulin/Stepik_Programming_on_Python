@@ -24,7 +24,7 @@
 
 #### Sample Output 2:
 
-``empty``
+``Empty``
 
 #### Sample Input 3:
 
@@ -34,4 +34,4 @@
 
 #### Sample Output 3:
 
-``empty``
+``Empty``
